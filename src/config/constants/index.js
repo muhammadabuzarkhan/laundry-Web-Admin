@@ -5,7 +5,7 @@ const { hostname } = window.location
 
 const servers = {
   local: "http://localhost:3021",
-  customDev: "https://react.customdev.solutions:3021",
+  customDev: "https://laundry-backend-admin.vercel.app/",
   live: "https://grocost.app:3025"
 }
 
