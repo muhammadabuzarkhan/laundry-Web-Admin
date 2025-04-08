@@ -4,7 +4,7 @@ const { NODE_ENV } = process.env
 const { hostname } = window.location
 
 const servers = {
-  local:"http://http://13.60.66.94/api",
+  local:"http://13.60.66.94/api",
   customDev: "http://http://13.60.66.94/api",
   live: "https://grocost.app:3025"
 }
