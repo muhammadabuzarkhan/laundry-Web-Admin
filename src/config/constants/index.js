@@ -4,9 +4,8 @@ const { NODE_ENV } = process.env
 const { hostname } = window.location
 
 const servers = {
-  local:"https://laundry-backend-admin.vercel.app/",
-  //  "http://localhost:3021",
-  customDev: "https://laundry-backend-admin.vercel.app/",
+  local:"http://http://13.60.66.94/api",
+  customDev: "http://http://13.60.66.94/api",
   live: "https://grocost.app:3025"
 }
 
